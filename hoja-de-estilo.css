@@ -22,7 +22,7 @@ header, main, aside, footer {
 }
 h1 {
 	font-size: 4rem;
-	animation: titulo 10s;
+	animation: titulo 2s;
 }
 h2 {
 	margin-bottom: 3rem;
